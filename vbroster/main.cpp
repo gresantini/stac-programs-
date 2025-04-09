@@ -1,3 +1,9 @@
+// Author: Greta Santini
+// program that creates a hash table for the women's volleyball team. 
+// main program should allow the user to: query based upon the last name of the player, 
+// create a team listing based on position, and determine the team's average player height.
+
+
 #include <iostream>
 #include "vbroster.h"
 
