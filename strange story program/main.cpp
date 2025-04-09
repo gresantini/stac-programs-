@@ -1,6 +1,13 @@
+
+// Author: Greta Santini 
+// date: 1/29/2025.
 //
-// Created by Greta Santini on 1/29/2025.
-//
+// Write a program that creates a strange story.  The text of a story is given, however some of the verbs 
+//in the story have been replaced with the $ symbol, and some of the nouns have been replaced with the # symbol. 
+//Two additional files are also given.  One file contains a list of verbs  and the other file contains
+// a list of nouns. The program should use the files to create a story replacing the $ symbols with
+//a randomly selected verb and the # symbols with a randomly selected noun.
+
 
 #include <iostream>
 #include <fstream>
