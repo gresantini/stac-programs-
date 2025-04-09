@@ -1,6 +1,6 @@
 // Author: Greta Santini
 // Date: 3/1/2025
-
+//compare the execution times of three different sorting algorithms using two different data sets
 
 #include <iostream>
 #include <vector>
