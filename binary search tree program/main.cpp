@@ -1,6 +1,8 @@
 // author: Greta Santini
 //date: 2/4/2025
-// binary search tree program
+// binary search tree program that analyzes the text in an input file, 
+// counting the number of times each word appears in the text and the line numbers where it appears. 
+
 
 #include <iostream>
 #include <fstream>
